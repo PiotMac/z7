@@ -8,7 +8,7 @@ public class TrzyKlasy
 {
     public static void main( String[] args )
     {
-        System.out.println("Trzy współpracujące klasy");
+        System.out.println("Trzy współpracujące klasy?");
         Imie imie = new Imie();
         imie.show();
         Nazwisko nazwisko = new Nazwisko();
